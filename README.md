@@ -144,4 +144,4 @@ Ex. https://gist.github.com/melvincabatuan/aa6f1c2093fa524e86fd
 
 ![alt tag](https://github.com/DeLaSalleUniversity-Manila/activitylifecycleintroduction-BananaSpoon/blob/master/save%20instance.JPG)
 
-![alt tag](https://github.com/DeLaSalleUniversity-Manila/activitylifecycleintroduction-melvincabatuan/blob/master/2015-10-02-17:06:23.png)
+
